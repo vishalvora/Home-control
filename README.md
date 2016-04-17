@@ -17,6 +17,6 @@ For Controlling NodeMcu GPIO without internet(MQTT)
 
 Follow Step 1 and 2 as above.
 Step 3: go to NodeMcu tab and go to NodeMcu button.
-Step 4: Control any GPIO by toggling circles with mentioned pin no.
+Step 4: Control any GPIO by toggling circles with mentioned pin no..
 
 
